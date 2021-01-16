@@ -103,7 +103,7 @@ console.log(fruits.indexOf('🍖')); // 결과값 -1 (없는 데이터 검색시
 console.log(fruits.includes('🍖')); // true와 false 로 결과 데이터 유무를 확인 할 수 있음
 console.log(fruits.includes('🍌')); // 결과값 true
 ```
-* astIndexOf
+* lastIndexOf
 ```js
 console.clear();
 fruits.push('🍎');
