@@ -1,5 +1,5 @@
 # study-javascript
 
-* [basic.md](basic.md)
+* [basic](basic.md)
 * [Javascript](Javascript.md)
 * [array](array.md)
